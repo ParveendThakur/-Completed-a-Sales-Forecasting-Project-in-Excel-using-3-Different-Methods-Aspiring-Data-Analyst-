@@ -81,7 +81,6 @@ To forecast sales and customer trends using a real dataset with three forecastin
 - [🔗  GitHub Repository](https://github.com/ParveendThakur/-Completed-a-Sales-Forecasting-Project-in-Excel-using-3-Different-Methods-Aspiring-Data-Analyst-)
 - [🔗  LinkedIn Project Post](https://lnkd.in/gKr6rBBC)
 - 
-
 ---
 
 ## 👨‍💻 About Me
